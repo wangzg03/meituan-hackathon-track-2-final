@@ -1,0 +1,19 @@
+{
+  "delivery_scenario": {
+    "personality": "random",
+    "max_turns": 60,
+    "interrupt_probability": 0.01,
+    "temperature": 0.6,
+    "X": 5,
+    "Y": 10,
+    "Z": 22,
+    "W": 7,
+    "reward": 2
+  },
+  "course_scenario": {
+    "personality": "random",
+    "max_turns": 60,
+    "interrupt_probability": 0.01,
+    "temperature": 0.6
+  }
+}

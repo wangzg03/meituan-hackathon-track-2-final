@@ -1,0 +1,5 @@
+fastapi==0.136.3
+json_repair==0.59.10
+openai==2.40.0
+pydantic==2.13.4
+python-dotenv==1.2.2
